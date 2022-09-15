@@ -1,0 +1,16 @@
+{
+  "name": "penumbra-web-assembly",
+  "collaborators": [
+    "Valentine <valentine@zpoken.io>"
+  ],
+  "version": "0.0.029-eukelade",
+  "files": [
+    "penumbra_web_assembly_bg.wasm",
+    "penumbra_web_assembly.js",
+    "penumbra_web_assembly_bg.js",
+    "penumbra_web_assembly.d.ts"
+  ],
+  "module": "penumbra_web_assembly.js",
+  "types": "penumbra_web_assembly.d.ts",
+  "sideEffects": false
+}
